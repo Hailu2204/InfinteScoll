@@ -1,1 +1,2 @@
-A HTML page with minimum styling that loads database content from phpmyadmin database that as we keep scrolling down till all the datas or fetched or to infinty using php,jquery,ajax and javascript
+
+![Slide1](https://user-images.githubusercontent.com/98529794/167837263-0740f7c0-654d-4879-a5f5-e47946f39e65.JPG)
